@@ -4,15 +4,10 @@ import Header from './components/Header';
 import Project from './components/Project';
 import { Variants, motion } from 'framer-motion';
 import projects  from './resources/projects.json';
-import { useState, useEffect } from 'react';
+import { useState } from 'react';
 
 function App() {
 	const [isDarkMode, setIsDarkMode] = useState(true);
-
-	// Change title
-	useEffect(() => {
-		document.title = "Vladyslav Havriutkin Portfolio";
-	}, []);
 
 	const handleToggle = (value: boolean) => {
 		setIsDarkMode(value);
