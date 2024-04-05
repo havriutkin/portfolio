@@ -1,0 +1,42 @@
+[
+    {
+        "title": "Trivia Challenge App",
+        "description": "Full stack trivia challenge application that allows users to answer questions in a variety of categories and difficulties. Users can create accounts and save their progress.",
+        "imgSrc": "/img/TriviaChallenge.png",
+        "imgAlt": "Trivia Challenge App",
+        "technologies": [
+            "React",
+            "Node.js",
+            "Express",
+            "PostrgeSQL",
+            "TailwindCSS",
+            "FramerMotion"
+        ],
+        "githubLink": "https://github.com/havriutkin/trivia-challenge-client",
+        "liveLink": "https://trivia-challenge.havriutkin.com"
+    },
+    {
+        "title": "Conway's Game of Life",
+        "description": "A simulation of Conway's Game of Life. Users can create their own patterns and adjust the speed of the simulation. Implemented in pure JS!",
+        "imgSrc": "/img/ConwaysGameOfLife.png",
+        "imgAlt": "Conway's Game of Life",
+        "technologies": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "githubLink": "https://github.com/havriutkin/conways-game-of-life",
+        "liveLink": "https://conways-game-of-life.havriutkin.com"
+    },
+    {
+        "title": "Doppler Effect Simulator",
+        "description": "A simulation of the Doppler Effect implemented in Python during my internship in Georgia Tech.",
+        "imgSrc": "/img/DopplerEffect.jpg",
+        "imgAlt": "Doppler Simulator",
+        "technologies": [
+            "Python",
+            "Numpy"
+        ],
+        "githubLink": "https://github.com/havriutkin/doppler-effect"
+    }
+]
