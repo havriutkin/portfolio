@@ -1,4 +1,5 @@
 import TypingAnimation from "./TypingAnimation";
+import resume from "../../public/Vladyslav_Havriutkin_Resume.pdf";
 
 function CodeBlock(){
     return (
@@ -36,7 +37,9 @@ function CodeBlock(){
                 <TypingAnimation text="Vlad.resume" className="text-code-blue" delay={4500} speed={30} />
                 <br/>
                 <TypingAnimation text='"' className="text-code-brown" delay={5000} speed={0} />
+                <a href={resume} target="_blank">
                 <TypingAnimation text='vlad.pdf' className="text-code-brown underline cursor-pointer" delay={5000} speed={0} />
+                </a>
                 <TypingAnimation text='"' className="text-code-brown" delay={5000} speed={0} />
             </div>
 
