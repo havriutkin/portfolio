@@ -38,5 +38,15 @@
             "Numpy"
         ],
         "githubLink": "https://github.com/havriutkin/doppler-effect"
+    },
+    {
+        "title": "Donut in C++",
+        "description": "A 3D spinning donut in Terminal implemented in C++ for Windows.",
+        "imgSrc": "/img/Donut.png",
+        "imgAlt": "Donut in C++",
+        "technologies": [
+            "C++"
+        ],
+        "githubLink": "https://github.com/havriutkin/donut-cpp"
     }
 ]
