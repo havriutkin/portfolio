@@ -16,6 +16,16 @@
         "liveLink": "https://trivia-challenge.havriutkin.com"
     },
     {
+        "title": "Donut in C++",
+        "description": "A 3D spinning donut in Terminal implemented in C++ for Windows.",
+        "imgSrc": "/img/Donut.png",
+        "imgAlt": "Donut in C++",
+        "technologies": [
+            "C++"
+        ],
+        "githubLink": "https://github.com/havriutkin/donut-cpp"
+    },
+    {
         "title": "Conway's Game of Life",
         "description": "A simulation of Conway's Game of Life. Users can create their own patterns and adjust the speed of the simulation. Implemented in pure JS!",
         "imgSrc": "/img/ConwaysGameOfLife.png",
@@ -40,13 +50,29 @@
         "githubLink": "https://github.com/havriutkin/doppler-effect"
     },
     {
-        "title": "Donut in C++",
-        "description": "A 3D spinning donut in Terminal implemented in C++ for Windows.",
-        "imgSrc": "/img/Donut.png",
-        "imgAlt": "Donut in C++",
+        "title": "Spring Force Simulation",
+        "description": "In-browser simulation of a spring force implemented using pure JS.",
+        "imgSrc": "/img/SpringForce.png",
+        "imgAlt": "Spring Force Simulation",
         "technologies": [
-            "C++"
+            "HTML",
+            "CSS",
+            "JavaScript"
         ],
-        "githubLink": "https://github.com/havriutkin/donut-cpp"
+        "githubLink": "https://github.com/havriutkin/spring-simulation-js",
+        "liveLink": "https://spring-simulation-js.onrender.com"
+    },
+    {
+        "title": "Video To ASCII",
+        "description": "Converts a video to ASCII art in real-time using pure JS.",
+        "imgSrc": "/img/VideoToAscii.png",
+        "imgAlt": "Video To ASCII",
+        "technologies": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "githubLink": "https://github.com/havriutkin/video-to-ascii",
+        "liveLink": "https://video-to-ascii.onrender.com"
     }
 ]
