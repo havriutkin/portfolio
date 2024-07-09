@@ -65,7 +65,7 @@
     {
         "title": "Video To ASCII",
         "description": "Converts a video to ASCII art in real-time using pure JS.",
-        "imgSrc": "/img/VideoToAscii.png",
+        "imgSrc": "/img/VideoToASCII.png",
         "imgAlt": "Video To ASCII",
         "technologies": [
             "HTML",
