@@ -83,7 +83,7 @@ function CodeBlock(){
                 <TypingAnimation text=',' className="text-white" delay={9000} speed={0} />
                 <br/>
                 <TypingAnimation text='&nbsp;&nbsp;status:' className="text-code-blue" delay={9000} speed={0} />
-                <TypingAnimation text='&nbsp;"3 year student"' className="text-code-brown" delay={9000} speed={0} />
+                <TypingAnimation text='&nbsp;"4 year student"' className="text-code-brown" delay={9000} speed={0} />
                 <br/>
                 <TypingAnimation text='}' className="text-code-gold" delay={9000} speed={0} />
             </div>
