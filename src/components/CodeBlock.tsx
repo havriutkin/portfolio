@@ -48,6 +48,8 @@ function CodeBlock(){
                 <TypingAnimation text="Vlad.skills" className="text-code-blue" delay={6500} speed={30} />
                 <br/>
                 <TypingAnimation text='[' className="text-code-pink" delay={7000} speed={0} />
+                <TypingAnimation text='"TypeScript"' className="text-code-brown" delay={7000} speed={0} />
+                <TypingAnimation text=',&nbsp;' className="text-white" delay={7000} speed={0} />
                 <TypingAnimation text='"JavaScript"' className="text-code-brown" delay={7000} speed={0} />
                 <TypingAnimation text=',&nbsp;' className="text-white" delay={7000} speed={0} />
                 <TypingAnimation text='"Express"' className="text-code-brown" delay={7000} speed={0} />
