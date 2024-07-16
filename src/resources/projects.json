@@ -16,6 +16,16 @@
         "liveLink": "https://trivia-challenge.havriutkin.com"
     },
     {
+        "title": "FPS Simulation In Console",
+        "description": "The game renders a 3D environment using ASCII characters and allows the player to navigate through a map.",
+        "imgSrc": "/img/FPSSimulationInConsole.png",
+        "imgAlt": "FPS Simulation In Console",
+        "technologies": [
+            "C++"
+        ],
+        "githubLink": "https://github.com/havriutkin/fps-console-game-cpp"
+    },
+    {
         "title": "Donut in C++",
         "description": "A 3D spinning donut in Terminal implemented in C++ for Windows.",
         "imgSrc": "/img/Donut.png",
