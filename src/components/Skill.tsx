@@ -4,7 +4,7 @@ interface SkillProps {
 
 function Skill({ name }: SkillProps) {
     return (
-        <div className="border border-yellow-300 rounded-sm p-1 text-sm w-fit">
+        <div className="border border-complementary-orange rounded-sm p-1 text-sm w-fit">
             <span className="">{name}</span>
         </div>
     );

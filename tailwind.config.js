@@ -14,7 +14,24 @@ export default {
         'code-brown':'#CE7F50',
         'code-pink': '#DA70B3',
         'code-gold': '#FFCB0E',
-        'code-bg': '#1F1F1F'
+        'code-bg': '#1F1F1F',
+        // Primary colors - use these for your main branding elements such as logos, headers, and key design elements.
+        'primary-red': '#CF0A0A',
+        'primary-grey': '#EEEEEE',
+        'primary-orange': '#DC5F00',
+        // Complementary colors - these can be used for backgrounds, secondary text, and other supporting elements.
+        'complementary-grey': '#333333',
+        'complementary-red': '#8B0000',
+        'complementary-orange': '#A14A00',
+        'complementary-medium-grey': '#999999',
+        'complementary-soft-grey': '#CCCCCC',
+        // Accent colors - use these sparingly to draw attention to specific areas or to add a pop of color to your design.
+        'accent-gold': '#FFD700',
+        'accent-blue': '#1E90FF',
+        'accent-green': '#32CD32',
+        'accent-purple': '#800080',
+        'accent-teal': '#008080',
+        'accent-pink': '#FF69B4'
       },
       fontFamily: {
         'jet-brains-mono': ['JetBrains Mono'],

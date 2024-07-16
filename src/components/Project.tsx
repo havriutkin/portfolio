@@ -28,8 +28,8 @@ function Project({ title, description, imgSrc, imgAlt, technologies, githubLink,
                 </div>
 
                 <div className="flex justify-start items-center gap-5 text-lg">
-                    <a className=" bg-custom-purple p-1 rounded-sm transition-all hover:scale-105" href={githubLink}>Code</a>
-                    {liveLink && <a className=" bg-gray-200 text-custom-purple p-1 rounded-sm transition-all hover:scale-105" href={liveLink}>Live</a>}
+                    <a className=" bg-accent-purple p-1 rounded-sm transition-all hover:scale-105" href={githubLink}>Code</a>
+                    {liveLink && <a className=" bg-primary-grey text-black p-1 rounded-sm transition-all hover:scale-105" href={liveLink}>Live</a>}
                 </div>
             </div>
         </div>
