@@ -30,13 +30,13 @@ function App() {
 			<div className='flex justify-center items-center w-full h-full'>
 				<div className='flex flex-col justify-center items-center w-full h-full'>
 					<h1 className='w-2/3 mb-10 font-jet-brains-mono font-extrabold text-left text-4xl
-								 text-blue-800 dark:text-code-blue'>
-					&gt; Vladyslav Havriutkin
-					<motion.span
-						className="ml-2 h-4 w-2 bg-blue-800 dark:bg-code-blue"
-						variants={cursorVariants}
-						animate="animate"
-					>|</motion.span>
+								 text-blue-600 dark:text-primary-red'>
+						&gt; Vladyslav Havriutkin
+						<motion.span
+							className="ml-2 h-4 w-2 bg-blue-600 dark:bg-primary-red"
+							variants={cursorVariants}
+							animate="animate"
+						>|</motion.span>
 					</h1>
 					<CodeBlock />
 				</div>

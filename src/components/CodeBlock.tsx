@@ -92,7 +92,7 @@ function CodeBlock(){
 
             <div className="max-w-full">
                 <TypingAnimation text="&gt;&nbsp;" className=" text-white" delay={9000} speed={0} />
-                <TypingAnimation text="hire(Vlad)" className="text-code-pink" delay={10500} speed={30} />
+                <TypingAnimation text="hire(Vlad)" className="text-accent-pink" delay={10500} speed={30} />
             </div>
 
         </div>
